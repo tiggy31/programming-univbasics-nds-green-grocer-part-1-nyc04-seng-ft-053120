@@ -18,6 +18,7 @@ def consolidate_cart(cart)
       new_cart << {
         :item => item_name,
         :price => cart_item[:price],
+        :clearance => cart_item[:clearance],
         
         
         
