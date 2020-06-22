@@ -9,7 +9,8 @@ end
 
 def consolidate_cart(cart)
   new_cart = []
-  
+  cart.each do |cart_item|
+    
   
   
 end
