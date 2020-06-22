@@ -25,7 +25,7 @@ end	    if item_info
   new_cart
 end 
 
-end
+
 
 
   
