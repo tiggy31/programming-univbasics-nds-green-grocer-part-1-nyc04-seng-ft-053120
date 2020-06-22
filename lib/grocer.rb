@@ -25,9 +25,6 @@ def consolidate_cart(cart)
   end #each
   new_cart
 end
-        
-        
-  
   
 end
 
