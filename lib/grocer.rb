@@ -19,7 +19,12 @@ def consolidate_cart(cart)
         :item => item_name,
         :price => cart_item[:price],
         :clearance => cart_item[:clearance],
-        
+        :count => 1
+      }
+    end #if
+  end #each
+  new_cart
+end
         
         
   
