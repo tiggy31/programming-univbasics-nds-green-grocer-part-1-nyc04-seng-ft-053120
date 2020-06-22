@@ -15,7 +15,10 @@ def consolidate_cart(cart)
     if item_info
       item_info[:count] += 1
     else
-      
+      new_cart << {
+        
+        
+        
   
   
 end
