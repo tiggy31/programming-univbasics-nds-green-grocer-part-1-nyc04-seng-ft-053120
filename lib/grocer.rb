@@ -1,6 +1,7 @@
 def find_item_by_name_in_collection(name, collection)
 collection.each do |item_info|
-  
+  if item_info[:item] == name
+    
 end
 
 def consolidate_cart(cart)
