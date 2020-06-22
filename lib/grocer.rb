@@ -11,7 +11,7 @@ end
   # Implement me first!
   #
   # Consult README for inputs and outputs
-
+end
 
 def consolidate_cart(cart)
  new_cart = []
