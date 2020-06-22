@@ -10,6 +10,7 @@ end
 def consolidate_cart(cart)
   new_cart = []
   cart.each do |cart_item|
+    item_name = cart_item[:item]
     
   
   
