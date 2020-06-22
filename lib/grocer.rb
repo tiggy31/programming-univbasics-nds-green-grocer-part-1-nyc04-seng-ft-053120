@@ -24,7 +24,7 @@ end	    if item_info
   end #each
   new_cart
 end 
-end
+
 
 
 
