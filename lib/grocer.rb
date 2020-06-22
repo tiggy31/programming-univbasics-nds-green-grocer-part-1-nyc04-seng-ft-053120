@@ -3,7 +3,7 @@ def find_item_by_name_in_collection(name, collection)
   #	    if item_info[:item] == name
   # Consult README for inputs and outputs	      return item_info
 end	    end #if
-  end #each
+ #each
   nil
 end 
 def consolidate_cart(cart)
@@ -24,7 +24,7 @@ end	    if item_info
   end #each
   new_cart
 end 
-
+end
 
 
 
