@@ -4,6 +4,7 @@ collection.each do |item_info|
     return item_info
   end
 end
+nil
 
 def consolidate_cart(cart)
   # Consult README for inputs and outputs
